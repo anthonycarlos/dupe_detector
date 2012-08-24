@@ -1,1 +1,4 @@
 A utility class to find duplicates in arrays.
+
+TODO: Add an option to remove nils from the array or remove objects with nils 
+for the comparison attribute.

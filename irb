@@ -1,0 +1,5 @@
+require 'spec/spec_helper'
+button = LineItem.new(1, 'button', 1)
+stamp  = LineItem.new(2, 'stamp',  2)
+objects = [ button, button, stamp ]
+
